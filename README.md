@@ -16,7 +16,7 @@ Este portfólio foi desenvolvido com o objetivo de apresentar meu perfil profiss
 - Apresentação pessoal
 - Seção de habilidades e tecnologias
 - Projetos com links para repositórios e/ou demonstrações
-- Formulário de contato
+- Sessão de contato
 - Design responsivo para dispositivos móveis
 
 ---
@@ -34,4 +34,15 @@ Este portfólio foi desenvolvido com o objetivo de apresentar meu perfil profiss
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Leticia-Eto/Portifolio.git
+   ```
+2. Navegue até a pasta do projeto:
+ ```bash
+  cd Portifolio
+   ```
+3. Abra o arquivo index.html em seu navegador preferido.
+
+## 📬 Contato
+Se quiser entrar em contato comigo, acesse a seção de Contato no portfólio ou envie um e-mail para:
+📧 leticiaetofilocandido@gmail.com
+   
